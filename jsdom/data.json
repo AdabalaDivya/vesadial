@@ -1,0 +1,93 @@
+{
+    "profiledata":{
+        "image": "img/profile.svg",
+        "nameprofile":"Adabala Divya",
+        "cateogary":"Software Engineer",
+        "mobile":"91-9807121352",
+        "email":"divyakeerthisravani999@gmail.com"
+    },
+    "carrier":{
+        "carr":"To become associated with a company where I can utilize my skills and gain further experience while enhancing the company’s productivity"
+    },
+    "mydata":[
+        {
+            "Qualification":"Bachelor of Technology (B.Tech)",
+            "Specialisation":"Computer Science & Engineering",
+            "Name of the College":"Godavari Institute of Engineering and Technology, Rajahmundry (A)",
+            "Name of the Board/University":"JNTU Kakinada, AP",
+            "Year of Passing":"2021",
+            "Percentage/CGPA":"8.64 (till date)"
+        },
+        {
+            "Qualification":"Intermediate",
+            "Specialisation":"MPC",
+            "Name of the College":"Narayana Junior College, Rajamahendravaram",
+            "Name of the Board/University":"Board of Intermediate, AP",
+            "Year of Passing":"2017",
+            "Percentage/CGPA":"97.4"
+        },
+        {
+            "Qualification":"S.S.C",
+            "Specialisation":"__ ",
+            "Name of the College":"A.E.L.C Schade English Medium High School, Rajamahendravaram",
+            "Name of the Board/University":"State Board, AP ",
+            "Year of Passing":"2015",
+            "Percentage/CGPA":"9.0(C.G.P.A)"
+        }
+    ],
+    "tech":[
+        {
+            "Programminglanguages":"C, Java, Python ",
+            "WebTechnologies":"HTML,CSS,Java Script,Angularjs,Angular,Nodejs",
+            "DBMS":"ORACLE,MySQL",
+            "Package":"MS Office ",
+            "Operatingsystem":"Windows 10, Windows 7"
+        }
+    ],
+    "personalskills":[
+        {
+        "sk1": "Hard working nature",
+        "sk2":"Self-Learner",
+        "sk3":"Result oriented person",
+        "sk4":"Self-Motivated Person"
+        }
+    ],
+    "projects":[
+        {
+        "pr1":"Done mini project on Object Detection using Machine Learning.",
+        "pr2":"Done mini project on Door Breaking Detection System using IOT."
+        }
+    ],
+    "wrshp":[
+        {
+        "wr1":"Had a One-month internship on Machine Learning at JNNC Technologies, Visakhapatnam and done a project on Object Detection.",
+        "wr2":"Was a part of National Workshop series on IOT and certified by ANDHRA PRADESH IBOOTUP IOT SERIES in association with IBHUBS in Sep 2018, GIET(A), Rajahmundry, AP.",
+        "wr3":"Attended a 3days workshop Width on INNOVATION AND DESIGN THINKING BY JNTU, Kakinada, AP.",
+        "wr4":"Attended a 3days workshop Gamethon By APSSDC",
+        "wr5":"Attended a 3days workshop  on Full Stack Web Development BY BrainOVision."
+        }
+    ],
+    "achives":[
+        {
+        "ach1":"Qualifier Participant in MASTER ORATOR CHAMPIONSHIP(MOC) India 2019 by TOAST MASTERS, GIET(A), AP, India.",
+        "ach2":"Exhibited a project entitled OBJECT DETECTION through Machine Learning at ADVIKA 2K19, AKNU, AP.",
+        "ach3":"Exhibited a project entitled Door Breaking Detection System Using IOT at MEDHA 2k18, GIET, AP.",
+        "ach4":"Completed a python course in NPTEL 2k18.",
+        "ach5":"Participated in Power Point Presentation on CYBER CRIME at MEDHA 2k17,  GIET(A), AP."
+        }
+    ],
+    "pedat":[
+        {
+        "pd1":"19th October,1999",
+        "pd2":"Female.",
+        "pd3":"Indian.",
+        "pd4":"D.No:49-13-21, Gandhipuram-1, Rajamahendravaram-533103,East Godavari District, Andhra Pradesh.",
+        "pd5":"Playing Shuttle, Dancing, Paper Crafting.",
+        "pd6":"Telugu and English"
+        }
+    ],
+    "dec":{
+        "val":"I here by declare that all the details above are true as of my knowledge.",
+        "sign":"(A.DIVYA)"
+    }
+}
